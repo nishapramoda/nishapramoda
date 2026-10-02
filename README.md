@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Nisha Hegde
 
-<!--
-**nishapramoda/nishapramoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Graduate  
+💼 Working in the Data/ETL domain at BNP Paribas  
+📍 Bengaluru, India
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Electronics and Communication Engineering graduate currently working in the data domain.
+
+I have experience working with:
+
+- 🐍 Python
+- 🗄️ SQL
+- ⚡ PySpark
+- ☁️ AWS / S3
+- 📊 Data Engineering & ETL
+- 🔍 Data Quality & Data Supervision
+- 🔧 Git & GitHub
+
+I'm interested in exploring opportunities where I can combine my analytical, problem-solving, and business skills to build a meaningful career.
+
+## 🛠️ Technical Skills
+
+**Languages:**  
+Python | SQL
+
+**Data & Big Data:**  
+Pandas | PySpark | Data Processing | ETL
+
+**Cloud & Tools:**  
+AWS S3 | Git | GitHub | PyCharm | VS Code
+
+## 🌱 Currently Learning
+
+- Data Analytics
+- Power BI
+- Business Analysis
+- Data Visualization
+
+## 🎯 Goals
+
+I'm continuously learning and exploring different career paths in technology, analytics, and business.
+
+I enjoy learning new things, solving problems, and working on projects that have real-world impact.
+
+## 📫 Connect With Me
+
+- GitHub: [Your GitHub Profile](https://github.com/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+
+---
+
+⭐ *Always learning. Always growing.*
