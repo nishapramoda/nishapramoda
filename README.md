@@ -44,11 +44,5 @@ I'm continuously learning and exploring different career paths in technology, an
 
 I enjoy learning new things, solving problems, and working on projects that have real-world impact.
 
-## 📫 Connect With Me
-
-- GitHub: [Your GitHub Profile](https://github.com/)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
-
----
 
 ⭐ *Always learning. Always growing.*
